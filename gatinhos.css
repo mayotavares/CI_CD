@@ -1,0 +1,23 @@
+/* Estilo para o elemento h1 */
+h1 {
+    color: blue; /* Cor do texto azul */
+    font-size: 24px; /* Tamanho da fonte 24 pixels */
+}
+
+/* Estilo para o elemento p */
+p {
+    color: green; /* Cor do texto verde */
+    font-size: 16px; /* Tamanho da fonte 16 pixels */
+}
+
+/* Estilo para o elemento a */
+a {
+    color: red; /* Cor do link vermelho */
+    text-decoration: none; /* Remover sublinhado padrão dos links */
+}
+
+/* Estilo para o elemento body */
+body {
+    background-color: #f0f0f0; /* Cor de fundo cinza claro */
+    font-family: Arial, sans-serif; /* Fonte Arial ou fonte sans-serif padrão do sistema */
+}
